@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Jean-Avit Promis",
-    "label": "DEVOPS",
+    "name": "Ing. Carl-Friedrich Schulze",
+    "label": "Software Engineer",
     "summary": "**Web developer with 13+ years industry experience** specializing in ecommerce and system architecture. 35 years old.",
-    "website": "https://www.katagena.com/",
+    "website": "https://cf-schulze.de/",
     "phone": "###PHONE###",
     "email": "###EMAIL###",
     "picture": "https://raw.githubusercontent.com/nouchka/japromis.katagena.com/master/picture.jpg",
     "location": {
-      "address": "Jean-Avit Promis\n###ADDRESS###",
-      "postalCode": "24100",
-      "city": "Bergerac",
-      "countryCode": "FR",
-      "region": "Dordogne"
+      "address": "Stralsund",
+      "postalCode": "18437",
+      "city": "Stralsund",
+      "countryCode": "DE",
+      "region": "Mecklenburg-Vorpommern"
     },
     "profiles": [
       {
         "network": "GitHub",
         "username": "nouchka",
-        "url": "https://github.com/nouchka",
+        "url": "https://github.com/CeeFeS",
         "iconClass": "fa fa-github-square"
       },
       {
